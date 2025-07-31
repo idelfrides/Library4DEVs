@@ -150,14 +150,60 @@ Focados em técnicas e práticas de análise de dados.
 - [Remotar](https://www.linkedin.com/company/remotar-jobs/posts/?feedView=all) |  eu remoto, tu remotas
 - [Vagas Remotas](https://www.linkedin.com/company/vagas-remotas-net/posts/?feedView=all) | Acompanhe aqui as notícias de empresas contratando! Somos um portal de notícias, leiam nossas matérias 😉
 
+
 ## CERTIFICATES LINKS
 
+- [BIBLIOTECA DE TREINAMENTO PARA CERTIFICAÇÕES DE AWS](https://www.aws.training/LearningLibrary)  | AWS Training ans Certification
+- [AWS Certification](https://aws.amazon.com/pt/certification/?ams%23interactive-card-vertical%23pattern-data-919416334.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data--569888661.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data--1110278974.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data-1727125239.filter=%257B%2522filters%2522%253A%255B%255D%257D) | Valide seus conhecimentos técnicos e experiência com a nuvem para crescer na carreira e nos negócios
 
 ## ENGLISH PROFICIENCE TEST PLATFORMS
 
 - [Teste Gratuito de Proficiência em Inglês](https://www.ef.com.br/certificados-ingles/efset/) | EF SET
   
 ## YOUTUBE CHANNELS 
+
+De acordo com o Copilot, a seguir está uma seleção dos **10 melhores canais brasileiros** e **10 internacionais** sobre **desenvolvimento de software**, com nome, link e uma breve descrição:
+
+---
+
+## 🇧🇷 **Canais Brasileiros**
+
+| Nome do Canal | Link | Descrição |
+|---------------|------|-----------|
+| **Curso em Vídeo** | [YouTube](https://www.youtube.com/@CursoemVideo) | Gustavo Guanabara ensina programação com cursos completos e gratuitos (HTML, CSS, JS, Python). |
+| **Filipe Deschamps** | [YouTube](https://www.youtube.com/@FilipeDeschamps) | Conteúdo técnico e divertido sobre programação, IA e carreira dev. |
+| **Código Fonte TV** | [YouTube](https://www.youtube.com/@codigofontetv) | Casal de devs apresenta tutoriais, entrevistas e dicas de carreira. |
+| **Programador BR** | [YouTube](https://www.youtube.com/@ProgramadorBR) | Foco em carreira, mercado de trabalho e dicas práticas para devs. |
+| **Vida de Programador** | [YouTube](https://www.youtube.com/@vidadeprogramador) | Humor e realidade do dia a dia de quem programa, com tirinhas e entrevistas. |
+| **Dev Aprender** | [YouTube](https://www.youtube.com/@DevAprender) | Tutoriais de Python, JavaScript, Django e dicas para iniciantes. |
+| **Peixe Babel** | [YouTube](https://www.youtube.com/@PeixeBabel) | Explicações profundas sobre algoritmos, estruturas de dados e ciência da computação. |
+| **Akita On Rails** | [YouTube](https://www.youtube.com/@AkitaOnRails) | Fabio Akita fala sobre Ruby, carreira, filosofia dev e tendências. |
+| **NodeStudio Treinamentos** | [YouTube](https://www.youtube.com/@nodestudiotreinamentos) | Foco em Node.js, backend e arquitetura de software. |
+| **Balta.io** | [YouTube](https://www.youtube.com/@baltaio) | Cursos e tutoriais sobre .NET, C#, arquitetura e boas práticas. |
+
+Fonte: [Skills Tecnológicas](https://skillstecnologicas.com/canais-de-tecnologia-e-programacao/)
+
+---
+
+## 🌍 **Canais Internacionais**
+
+| Nome do Canal | Link | Descrição |
+|---------------|------|-----------|
+| **The Net Ninja** | [YouTube](https://www.youtube.com/@NetNinja) | Tutoriais organizados sobre JS, React, Vue, Firebase, Node.js e mais. |
+| **Traversy Media** | [YouTube](https://www.youtube.com/@TraversyMedia) | Brad Traversy ensina desenvolvimento web full stack com clareza. |
+| **The Coding Train** | [YouTube](https://www.youtube.com/@TheCodingTrain) | Daniel Shiffman ensina programação criativa com Processing e p5.js. |
+| **freeCodeCamp.org** | [YouTube](https://www.youtube.com/@freecodecamp) | Cursos completos gratuitos sobre várias linguagens e frameworks. |
+| **Programming with Mosh** | [YouTube](https://www.youtube.com/@programmingwithmosh) | Mosh Hamedani ensina C#, JS, React, Angular e boas práticas. |
+| **CS Dojo** | [YouTube](https://www.youtube.com/@CSDojo) | Explicações simples sobre algoritmos, Python e entrevistas técnicas. |
+| **Tech With Tim** | [YouTube](https://www.youtube.com/@TechWithTim) | Foco em Python, machine learning e projetos práticos. |
+| **Academind** | [YouTube](https://www.youtube.com/@Academind) | Max e Manuel ensinam JS, React, Node, TypeScript e mais. |
+| **William Candillon** | [YouTube](https://www.youtube.com/@wcandillon) | Desenvolvimento mobile com React Native e animações avançadas. |
+| **Clement Mihailescu** | [YouTube](https://www.youtube.com/@ClementMihailescu) | Ex-Google fala sobre entrevistas técnicas e carreira em tech. |
+
+Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-para-desenvolvedores)
+
+---
+
 
 ## TOOLS
 
