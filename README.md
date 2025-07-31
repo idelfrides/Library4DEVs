@@ -1,6 +1,6 @@
 # LinksReleventesDEV
 
-Repositório dedicado a armazenar e organizar os links de diversos assuntos que são de grande importância para construção e manutenção da carreira de um Desenvolvedor de software. 
+Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de um Desenvolvedor de software. 
 Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que encontrará no mesmo recursos incríveis que iria gostar de conhecer antes.
 
 
