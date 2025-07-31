@@ -80,7 +80,10 @@ Focados em técnicas e práticas de análise de dados.
 
 ## VACANCIES (VAGAS DE EMPREGO/FREELANCER)
 
+- [Turing Careers](https://careers.turing.com/)
 - [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
+- [BairesDev](https://talent.bairesdev.com/?_gl=1*1t2q9mv*_ga*MTA2Nzk1Mjk4NC4xNzUzOTc0NDAy*_ga_YEM7K5XJ0C*czE3NTM5NzQ0MDEkbzEkZzEkdDE3NTM5NzQ4NjUkajUwJGwwJGgw) 
+- 
 
  ##### PLATAFORMAS DE FREELANCER
  
