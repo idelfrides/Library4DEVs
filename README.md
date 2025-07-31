@@ -53,6 +53,10 @@ Focados em técnicas e práticas de análise de dados.
 
 🦾 [Data Science: Inferência Estatística](https://lnkd.in/d62NGgSH)
 
+## VACANCIES(VAGAS de EMPREGO)
+
+- [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
+- 
 
 ## CERTIFICATES LINKS
 
