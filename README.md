@@ -8,6 +8,18 @@ Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira
 
 - [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll) | Coursera
 - [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br) | Coursera
+- [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
+- [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
+- [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT OpenCourseWare
+- [Curso Santander | Domine a IA com prompting responsável](https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=domine-ia-pmax|marca|na|preditiva-domine-ia|performance-max|lepub|performance-max|m18896-32120-16&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-16&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMuxkUUzDDTuY0zCNYcVsmiJMW51en0ewjfjdgzuwGcwwn5BVBaX0MaAsU2EALw_wcB) | Santander Open Academy
+- [Inteligência Artificial Generativa](https://www.escolavirtual.gov.br/curso/1091) | Escola Virtual GOV
+- [Especialização em Fundamentos de IA do Google](https://www.coursera.org/specializations/ai-essentials-google/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_google-ai-essentials_google_ftcof_learn_px_dr_bau_gg_sem_pr_br_pt_m_hyb_25-07_x&campaignid=22771272682&adgroupid=179960896697&device=c&keyword=curso%20de%20ia&matchtype=b&network=g&devicemodel=&creativeid=762612059481&assetgroupid=&targetid=kwd-336414206545&extensionid=&placement=&gad_source=1&gad_campaignid=22771272682&gbraid=0AAAAADdKX6a5fzevpCdJQRzS47rqjVg-D&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNPdn0zyqAYy3OsgiKOtAXbUqaMIFXanpT5Rq0TnChPRbAomJP3w3twaAg1lEALw_wcB) | Curso da Google na plataforma Coursera
+- [Introdução à IA generativa](https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR) | Curso rápido da Google com Badge de conclusão
+- [Inteligência Artificial e o Novo Contexto da Cultura Digital](https://www.ev.org.br/cursos/inteligencia-artificial-e-o-novo-contexto-da-cultura-digital) | fundação bradesco | escola virtual
+- [Curso Santander | Google: Inteligência Artificial e Produtividade](https://www.santanderopenacademy.com/pt_br/courses/google-artificial-intelligence-and-productivity.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=produtividade-ia-pmax|marca|na|preditiva-produtividade-ia|performance-max|lepub|performance-max|m18896-32120-20&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-20&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMhlkRX-3EI8-unvUjdc9JaLVsS2w-BCfP2ZTISaXJOsGLUkDqHIewaAt9zEALw_wcB)  |  Santander Open Academy
+- [Cursos gratuitos da USP na Coursera](https://www.coursera.org/partners/usp) |  Coursera.org
+- [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll)  |  Coursera.org
+- [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br)   |  Coursera.org
   
 ### Cursos Online Gratuitos de InteligênciaArtificial de Harvard
 
@@ -55,10 +67,46 @@ Focados em técnicas e práticas de análise de dados.
 
 🦾 [Data Science: Inferência Estatística](https://lnkd.in/d62NGgSH)
 
-## VACANCIES(VAGAS de EMPREGO)
+## WEBSITES OR PLATFORMS
+
+- [Plataforma Curso em Vídeo](https://www.cursoemvideo.com/cursos/)  |  Curso em Vídeo
+- [Conheça diversos cursos interessantes da escola virtual](https://www.ev.org.br/cursos) | fundação bradesco | escola virtual
+- [Diversos cursos do MIT no edX](https://www.edx.org/school/mitx) | MITx on edX
+- [Plataforma Aprenda mais](https://aprendamais.mec.gov.br/?redirect=0)  |  MEC GOV.BR
+- [Plograma de Desenvolvimento Inicial](https://aprendamais.mec.gov.br/?redirect=0)  |  Escola Virtual GOV
+- [Conheça inumeros cursos do Santander Open Academy](https://www.santanderopenacademy.com/pt_br/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25%7Cpf%7Cawar%7Cperf-max%7Cmarca%7Ccpa%7Cna%7Csnt%7Cpublicidade%7Cna) | Santander Open Academy
+- [Aprenda Sem Limites (diversos cursos)](https://www.coursera.org/)  | Coursera.org
+
+
+## VACANCIES (VAGAS DE EMPREGO/FREELANCER)
 
 - [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
-- 
+
+ ##### PLATAFORMAS DE FREELANCER
+ 
+ `No Brasil`
+    
+  - [99Freelas](https://www.99freelas.com.br/) | É uma plataforma popular no Brasil com muitas oportunidades em desenvolvimento web, mobile, sistemas, etc.
+  - [Workana](https://www.workana.com/pt/) | Ampla variedade de projetos de TI e programação, sendo uma das maiores na América Latina. Você encontrará projetos de desenvolvimento web, mobile, e-commerce, entre outros.
+  - [Trampos.co](https://trampos.co/) | Embora não seja exclusivamente freelancer, muitas vagas aqui são para tecnologia, incluindo desenvolvimento, e há uma boa parte de oportunidades remotas ou PJ que se assemelham a trabalhos freelancers.
+  - [GetNinjas](https://www.getninjas.com.br/) | Embora seja mais generalista, permite encontrar projetos de desenvolvimento web, criação de apps e outros serviços de TI.
+  - [LinkedIn](https://br.linkedin.com/) | Muitas empresas e startups no Brasil utilizam o LinkedIn para buscar desenvolvedores freelancers ou para projetos pontuais. É ótimo para networking e para encontrar oportunidades diretas.
+
+`No Exterior (com foco em ganhos em dólar/euro)`
+  - [Upwork](https://www.upwork.com/) | É uma das maiores plataformas globais e tem uma quantidade enorme de projetos de programação de todos os tipos (web, mobile, backend, frontend, data science, etc.).
+  - [Toptal](https://www.toptal.com/) | Altamente seletiva, focada nos melhores 3% dos talentos em desenvolvimento, design e finanças. Se você é um programador sênior e experiente, essa é uma ótima opção para projetos de alto nível e bem remunerados.
+  - [Fiverr](https://www.fiverr.com/) | Ótimo para programadores que querem oferecer "gigs" (serviços pré-definidos) para tarefas específicas, como criação de scripts, pequenos desenvolvimentos, automações, etc.
+  - [Freelancer.com](https://www.freelancer.com/) | Assim como o Upwork, é uma plataforma global com uma vasta gama de projetos de programação.
+  - [Arc.dev](https://arc.dev/) | Uma plataforma que conecta desenvolvedores remotos de elite com empresas. Passa por um rigoroso processo de seleção.
+  - [PeoplePerHour](https://www.peopleperhour.com/) | Oferece projetos de desenvolvimento de software, web e mobile, entre outras categorias.
+  - [Guru](https://www.guru.com/) | Possui uma seção robusta para desenvolvedores e profissionais de TI, com opções de projetos por hora ou por trabalho.
+  - [Flexjobs](https://www.flexjobs.com/) | Focada em vagas remotas e flexíveis, muitas das quais são para desenvolvedores. É uma plataforma paga, mas com curadoria das vagas, o que pode valer a pena.
+  - [Codeable](https://codeable.io/) | Especializada em desenvolvedores WordPress. Se você é um especialista em WordPress, essa é uma excelente opção.
+  - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
+
+`DIVERSOS TIPOS DE VAGAS REMOTAS`
+  - [Remote OK](https://remoteok.com/) | Focado em vagas de trabalho 100% remotas de médio e longo prazo
+    
 
 ## PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
 
@@ -91,7 +139,7 @@ Focados em técnicas e práticas de análise de dados.
 - [SKILL ICONS DEV](https://github.com/tandpfun/skill-icons#readme)
 - [FIX MODULENOTFOUNDERROR](https://www.youtube.com/watch?v=Ad-inC3mJfU)
 
-## LINKEDIN PROFILES YOU SHPULD KNOW
+## LINKEDIN PROFILES YOU SHOULD KNOW
 
 - [Trampar na Gringa](https://www.linkedin.com/company/tramparnagringa/posts/?feedView=all) | Consulturia de preparação para conseguir vagas no exterior.
 - [Home Office - Vagas Remotas](https://www.linkedin.com/company/home-office-vagas-remotas/posts/?feedView=all) | Acompanham todos os dias as principais oportunidades de trabalho Home Office e Híbridas no Brasil para compartilhar.
@@ -99,14 +147,14 @@ Focados em técnicas e práticas de análise de dados.
 - [Remotar](https://www.linkedin.com/company/remotar-jobs/posts/?feedView=all) |  eu remoto, tu remotas
 - [Vagas Remotas](https://www.linkedin.com/company/vagas-remotas-net/posts/?feedView=all) | Acompanhe aqui as notícias de empresas contratando! Somos um portal de notícias, leiam nossas matérias 😉
 
-
 ## CERTIFICATES LINKS
 
-## YOUTUBE CHANNELS 
-
-## WEBSITES OR PLATFORMS
 
 ## ENGLISH PROFICIENCE TEST PLATFORMS
+
+- [Teste Gratuito de Proficiência em Inglês](https://www.ef.com.br/certificados-ingles/efset/) | EF SET
+  
+## YOUTUBE CHANNELS 
 
 ## TOOLS
 
