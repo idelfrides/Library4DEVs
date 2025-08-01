@@ -162,7 +162,7 @@ Focados em técnicas e práticas de análise de dados.
   
 ## YOUTUBE CHANNELS 
 
-De acordo com o Copilot, a seguir está uma seleção dos **10 melhores canais brasileiros** e **10 internacionais** sobre **desenvolvimento de software**, com nome, link e uma breve descrição:
+De acordo com o Copilot, para pesquisa realizada em 31/07/2025, a seguir está uma seleção dos **10 melhores canais brasileiros** e **10 internacionais** sobre **desenvolvimento de software**, com nome, link e uma breve descrição:
 
 ---
 
