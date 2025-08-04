@@ -1,4 +1,4 @@
-# Links and Tools for DEVELOPERS
+# LIBRARY OF LINKS AND TOOLS FOR DEVELOPERS
 
 Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de um Desenvolvedor de software. 
 Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que encontrará no mesmo recursos incríveis que iria gostar de conhecer antes.
@@ -6,8 +6,6 @@ Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira
 
 ## COURSES LINKS
 
-- [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll) | Coursera
-- [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br) | Coursera
 - [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
 - [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT OpenCourseWare
@@ -67,7 +65,7 @@ Focados em técnicas e práticas de análise de dados.
 
 🦾 [Data Science: Inferência Estatística](https://lnkd.in/d62NGgSH)
 
-## WEBSITES OR PLATFORMS
+## WEBSITES (PLATFORMS)
 
 - [Plataforma Curso em Vídeo](https://www.cursoemvideo.com/cursos/)  |  Curso em Vídeo
 - [Conheça diversos cursos interessantes da escola virtual](https://www.ev.org.br/cursos) | fundação bradesco | escola virtual
@@ -83,7 +81,7 @@ Focados em técnicas e práticas de análise de dados.
 - [Turing Careers](https://careers.turing.com/)
 - [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
 - [BairesDev](https://talent.bairesdev.com/?_gl=1*1t2q9mv*_ga*MTA2Nzk1Mjk4NC4xNzUzOTc0NDAy*_ga_YEM7K5XJ0C*czE3NTM5NzQ0MDEkbzEkZzEkdDE3NTM5NzQ4NjUkajUwJGwwJGgw) 
-- 
+- [Remote OK](https://remoteok.com/) | Focado em vagas de trabalho 100% remotas de médio e longo prazo
 
  ##### PLATAFORMAS DE FREELANCER
  
@@ -106,9 +104,7 @@ Focados em técnicas e práticas de análise de dados.
   - [Flexjobs](https://www.flexjobs.com/) | Focada em vagas remotas e flexíveis, muitas das quais são para desenvolvedores. É uma plataforma paga, mas com curadoria das vagas, o que pode valer a pena.
   - [Codeable](https://codeable.io/) | Especializada em desenvolvedores WordPress. Se você é um especialista em WordPress, essa é uma excelente opção.
   - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
-
-`DIVERSOS TIPOS DE VAGAS REMOTAS`
-  - [Remote OK](https://remoteok.com/) | Focado em vagas de trabalho 100% remotas de médio e longo prazo
+  
     
 
 ## PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
@@ -136,6 +132,7 @@ Focados em técnicas e práticas de análise de dados.
 
 ## IMPORTANT LINKS
 
+- [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
 - [How to use the Extends and Include Django Template Tags](https://ordinarycoders.com/blog/article/extend-and-include-django-template-tags)
 - [Conheça 70 termos em inglês usados no mundo dos negócios!](https://www.berlitz.com/pt-br/blog/conheca-70-termos-em-ingles-usados-no-mundo-dos-negocios)
 - [SKILL ICONS VIEW](https://skillicons.dev/)
@@ -205,11 +202,10 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 ---
 
 
-## TOOLS
+## TOOLS TO GITHUB REPOS
 
 - [PLATAFORMA DE EMOJIS](https://emojipedia.org/)  
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
 - [BIBLIOTECA DE GRÁFICOS](https://github.com/anuraghazra/github-readme-stats)
 - [CONSTRUÇÃO MARKEDOWN](https://www.markdownguide.org/cheat-sheet/)
-- [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
-
+  
