@@ -1,6 +1,6 @@
 # LIBRARY OF LINKS AND TOOLS FOR DEVELOPERS
 
-Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de sucesso como `Desenvolvedor de Software Profissional`. Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que você encontrará no mesmo,  recursos incríveis que  você iria gostar de conhecer bem antes.
+Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de sucesso como **`Desenvolvedor de Software Profissional`**. Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que você encontrará no mesmo,  recursos incríveis que  você iria gostar de conhecer bem antes.
 
 
 ## COURSES LINKS
