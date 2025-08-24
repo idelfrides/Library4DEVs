@@ -3,7 +3,12 @@
 Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de sucesso como **`Desenvolvedor de Software Profissional`**. Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que você encontrará no mesmo,  recursos incríveis que  você iria gostar de conhecer bem antes.
 
 
-## COURSES LINKS
+### 💡 INTRODUÇÃO
+🎓 Em 2025, você não precisa de um diploma para aprender `IA` ou qualquer outra coisa que você queria aprender - tudo vai depender da sua determinação em fazer acontecer.
+O futuro do mercado de trabalho vai depender mais de habilidades IA do que certificações e diplomas, dito pelos maiores da IA Generativa, portanto faça sua parte e saia na frente 
+Encontrei inumeros cursos gratuitos de diversas empresas gigantes para acelerar sua jornada e você não precisa perder tempo procurando em outro lugar. Você tem está tudo aqui 👇
+
+## 🚀 COURSES LINKS
 
 - [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
 - [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
@@ -17,8 +22,39 @@ Repositório dedicado a armazenar e organizar os links e ferramentos de diversos
 - [Cursos gratuitos da USP na Coursera](https://www.coursera.org/partners/usp) |  Coursera.org
 - [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll)  |  Coursera.org
 - [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br)   |  Coursera.org
+
+
+##### 📚 Google Cloud:
+
+1. [Introdução à IA generativa](https://lnkd.in/dbnBXPYq)  | (⏱ 45min)
+2. [Design de prompt em Vertex AI](https://lnkd.in/ebH8RhEr) | (⏱ 3h 45min)
+3. [Introdução ao Duet AI no Google Workspace](https://lnkd.in/gpd_CcTs) | (⏱ 15 min)
+4. [IA responsável: aplicando os princípios de IA com o Google Cloud](https://lnkd.in/dfj2EvhF) | (⏱ 2 horas)
+5. [IA conversacional no Vertex AI e no Dialogflow CX](https://lnkd.in/dhVKVsrg) | (⏱ 5 horas)
+6. [Mecanismo de atenção](https://lnkd.in/de6V9dGq) | (⏱ 30 min)
+7. [Criar modelos de legendas de imagem](https://lnkd.in/dQYqif7T) | (⏱ 30 min)
+8. [Arquitetura do codificador-decodificador](https://lnkd.in/dECQGCEU) | (⏱ 30 horas)
+9. [Pipelines de ML no Google Cloud](https://lnkd.in/gN3PSDi5) | (⏱ 13 horas e 15 minutos)
+10. [Google Cloud Solutions II: Dados e Machine Learning](https://lnkd.in/gfDcXfKh) | (⏱ 4 horas)
+
+##### 📚 Microsoft:
+
+11. [Fundamentos da IA generativa](https://lnkd.in/gvYEj9at) | (⏱ 36 minutos)
+12. [Fundamentos de Aprendizado de Máquina](https://lnkd.in/ext-G-ch) | (⏱ 1 hora e 54 min)
+13. [Fundamentos do Azure OpenAI Service](https://lnkd.in/eZ23ve2Z) | (⏱ 1 hora e 3 minutos)
+14. [Fundamentos de Visão Computacional](https://lnkd.in/dS-dFKBv) | (⏱ 52 min)
+15. [Implantar e consumir modelos com aprendizado de máquina](https://lnkd.in/djKtE-ki) | (⏱ 1 hora e 29 minutos)
+16. [Criar bots com o Microsoft Bot Framework](https://lnkd.in/d4ga-W8n) | (⏱ 57 min)
+17. [Fundamentos da compreensão da linguagem de conversação](https://lnkd.in/d5fzzb_a) | (⏱ 42 min)
+18. [Fundamentos da IA Generativa Responsável](https://lnkd.in/dqjnzcCD) | (⏱ 3 h 15 min)
+19. [Desenvolver solução de IA generativa com o Azure OpenAI Service](https://lnkd.in/gg8Qe8Sq) | (⏱ 2 horas)
+20. [Projetando e implementando uma solução de IA do Azure](https://lnkd.in/dbPbCWaK) | (⏱ 4 dias)
+
+👉 Todos gratuitos. Todos acessíveis. 
+🚨 Esses cursos são um excelente ponto de partida para você dominar a inteligência artificial — mesmo sem experiência prévia.
+
   
-### Cursos Online Gratuitos de InteligênciaArtificial de Harvard
+### 📚 Cursos Online Gratuitos de InteligênciaArtificial de Harvard
 
 A Universidade de Harvard oferece diversos cursos gratuitos online, cobrindo áreas como Inteligência Artificial (IA), Programação, Ciência da Computação e Ciência de Dados. Abaixo está a lista com links diretos para você acessar cada curso.
 
@@ -64,7 +100,7 @@ Focados em técnicas e práticas de análise de dados.
 
 🦾 [Data Science: Inferência Estatística](https://lnkd.in/d62NGgSH)
 
-## WEBSITES (PLATFORMS)
+## 🚀 WEBSITES (PLATFORMS)
 
 - [Plataforma Curso em Vídeo](https://www.cursoemvideo.com/cursos/)  |  Curso em Vídeo
 - [Conheça diversos cursos interessantes da escola virtual](https://www.ev.org.br/cursos) | fundação bradesco | escola virtual
@@ -75,7 +111,7 @@ Focados em técnicas e práticas de análise de dados.
 - [Aprenda Sem Limites (diversos cursos)](https://www.coursera.org/)  | Coursera.org
 
 
-## VACANCIES (VAGAS DE EMPREGO/FREELANCER)
+## 🚀 VACANCIES (VAGAS DE EMPREGO/FREELANCER)
 
 - [Turing Careers](https://careers.turing.com/)
 - [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
@@ -104,9 +140,8 @@ Focados em técnicas e práticas de análise de dados.
   - [Codeable](https://codeable.io/) | Especializada em desenvolvedores WordPress. Se você é um especialista em WordPress, essa é uma excelente opção.
   - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
   
-    
 
-## PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
+## 🚀 PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
 
 - TestGorilla | [100 perguntas de entrevista sobre Python](https://www.testgorilla.com/pt/blog/perguntas-de-entrevista-sobre-python/)
 - TURING | [Perguntas e respostas para entrevistas de emprego Python em 2024](https://www.turing.com/pt/interview-questions/python)
@@ -129,7 +164,7 @@ Focados em técnicas e práticas de análise de dados.
    	- FRAMEWORKS: DJANGO, FLASK, DJANGO REST FRAMEWORK, FastAPI
 
 
-## IMPORTANT LINKS
+## 🚀 IMPORTANT LINKS
 
 - [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
 - [How to use the Extends and Include Django Template Tags](https://ordinarycoders.com/blog/article/extend-and-include-django-template-tags)
@@ -138,7 +173,7 @@ Focados em técnicas e práticas de análise de dados.
 - [SKILL ICONS DEV](https://github.com/tandpfun/skill-icons#readme)
 - [FIX MODULENOTFOUNDERROR](https://www.youtube.com/watch?v=Ad-inC3mJfU)
 
-## LINKEDIN PROFILES YOU SHOULD KNOW
+## 🚀 LINKEDIN PROFILES YOU SHOULD KNOW
 
 - [Trampar na Gringa](https://www.linkedin.com/company/tramparnagringa/posts/?feedView=all) | Consulturia de preparação para conseguir vagas no exterior.
 - [Home Office - Vagas Remotas](https://www.linkedin.com/company/home-office-vagas-remotas/posts/?feedView=all) | Acompanham todos os dias as principais oportunidades de trabalho Home Office e Híbridas no Brasil para compartilhar.
@@ -147,16 +182,16 @@ Focados em técnicas e práticas de análise de dados.
 - [Vagas Remotas](https://www.linkedin.com/company/vagas-remotas-net/posts/?feedView=all) | Acompanhe aqui as notícias de empresas contratando! Somos um portal de notícias, leiam nossas matérias 😉
 
 
-## CERTIFICATES LINKS
+## 🚀 CERTIFICATES LINKS
 
 - [BIBLIOTECA DE TREINAMENTO PARA CERTIFICAÇÕES DE AWS](https://www.aws.training/LearningLibrary)  | AWS Training ans Certification
 - [AWS Certification](https://aws.amazon.com/pt/certification/?ams%23interactive-card-vertical%23pattern-data-919416334.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data--569888661.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data--1110278974.filter=%257B%2522filters%2522%253A%255B%255D%257D&ams%23interactive-card-vertical%23pattern-data-1727125239.filter=%257B%2522filters%2522%253A%255B%255D%257D) | Valide seus conhecimentos técnicos e experiência com a nuvem para crescer na carreira e nos negócios
 
-## ENGLISH PROFICIENCE TEST PLATFORMS
+## 🚀 ENGLISH PROFICIENCE TEST PLATFORMS
 
 - [Teste Gratuito de Proficiência em Inglês](https://www.ef.com.br/certificados-ingles/efset/) | EF SET
   
-## YOUTUBE CHANNELS 
+## 🚀 YOUTUBE CHANNELS 
 
 De acordo com o Copilot, para pesquisa realizada em 31/07/2025, a seguir está uma seleção dos **10 melhores canais brasileiros** e **10 internacionais** sobre **desenvolvimento de software**, com nome, link e uma breve descrição:
 
@@ -201,7 +236,7 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 ---
 
 
-## TOOLS TO GITHUB REPOS
+## 🚀 TOOLS TO GITHUB REPOS
 
 - [PLATAFORMA DE EMOJIS](https://emojipedia.org/)  
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
