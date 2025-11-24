@@ -1,12 +1,15 @@
 # LIBRARY OF LINKS AND TOOLS FOR DEVELOPERS
 
+
+
 Repositório dedicado a armazenar e organizar os links e ferramentos de diversos assuntos que são de grande importância para construção e manutenção da carreira de sucesso como **`Desenvolvedor de Software Profissional`**. Portanto, todo o Desenvolvedor, não importa o seu nível ou momente de carreira, deveria conhecer porque tenho certeza que você encontrará no mesmo,  recursos incríveis que  você iria gostar de conhecer bem antes.
 
+---
 
 ### 💡 INTRODUÇÃO
 🎓 Em 2025, você não precisa de um diploma para aprender `IA` ou qualquer outra coisa que você queria aprender - tudo vai depender da sua determinação em fazer acontecer.
-O futuro do mercado de trabalho vai depender mais de habilidades IA do que certificações e diplomas, dito pelos maiores da IA Generativa, portanto faça sua parte e saia na frente 
-Encontrei inumeros cursos gratuitos de diversas empresas gigantes para acelerar sua jornada e você não precisa perder tempo procurando em outro lugar. Você tem está tudo aqui 👇
+O futuro do mercado de trabalho vai depender mais de habilidades IA do que certificações e diplomas, dito pelos maiores da IA Generativa, portanto faça sua parte e saia na frente.
+Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para acelerar sua jornada e você não precisa perder tempo procurando em outro lugar. Você tem está tudo aqui 👇
 
 ## 🚀 COURSES LINKS
 
@@ -109,6 +112,7 @@ Focados em técnicas e práticas de análise de dados.
 - [Plograma de Desenvolvimento Inicial](https://aprendamais.mec.gov.br/?redirect=0)  |  Escola Virtual GOV
 - [Conheça inumeros cursos do Santander Open Academy](https://www.santanderopenacademy.com/pt_br/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25%7Cpf%7Cawar%7Cperf-max%7Cmarca%7Ccpa%7Cna%7Csnt%7Cpublicidade%7Cna) | Santander Open Academy
 - [Aprenda Sem Limites (diversos cursos)](https://www.coursera.org/)  | Coursera.org
+- [Aprenda e se capacite com Diveros Cursos da European Union](https://academy.europa.eu/courses/?ctype=topics)  |  eu|academy
 
 
 ## 🚀 VACANCIES (VAGAS DE EMPREGO/FREELANCER)
