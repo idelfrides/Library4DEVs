@@ -246,4 +246,5 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
 - [BIBLIOTECA DE GRÁFICOS](https://github.com/anuraghazra/github-readme-stats)
 - [CONSTRUÇÃO MARKEDOWN](https://www.markdownguide.org/cheat-sheet/)
+- [TEXTO	 DINÂNICO EM SEU PERFIL](https://github.com/DenverCoder1/readme-typing-svg)
   
