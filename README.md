@@ -115,14 +115,13 @@ Focados em técnicas e práticas de análise de dados.
 - [Aprenda e se capacite com Diveros Cursos da European Union](https://academy.europa.eu/courses/?ctype=topics)  |  eu|academy
 
 
-## 🚀 VACANCIES (VAGAS DE EMPREGO/FREELANCER)
+## 🚀 VACANCIES (VAGAS DE EMPREGO) | 💰 PLATAFORMAS DE FREELANCER
 
 - [Turing Careers](https://careers.turing.com/)
 - [DataScience Jobs Canada](https://www.datasciencejobscanada.com/)
 - [BairesDev](https://talent.bairesdev.com/?_gl=1*1t2q9mv*_ga*MTA2Nzk1Mjk4NC4xNzUzOTc0NDAy*_ga_YEM7K5XJ0C*czE3NTM5NzQ0MDEkbzEkZzEkdDE3NTM5NzQ4NjUkajUwJGwwJGgw) 
 - [Remote OK](https://remoteok.com/) | Focado em vagas de trabalho 100% remotas de médio e longo prazo
 
- ##### PLATAFORMAS DE FREELANCER
  
  `No Brasil`
     
@@ -143,6 +142,91 @@ Focados em técnicas e práticas de análise de dados.
   - [Flexjobs](https://www.flexjobs.com/) | Focada em vagas remotas e flexíveis, muitas das quais são para desenvolvedores. É uma plataforma paga, mas com curadoria das vagas, o que pode valer a pena.
   - [Codeable](https://codeable.io/) | Especializada em desenvolvedores WordPress. Se você é um especialista em WordPress, essa é uma excelente opção.
   - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
+
+
+### 30 melhores para receber em dólares americanos de qualquer lugar:
+
+1. Feedcoyote — Trabalhos freelance pagos exclusivamente em dólares americanos. Perfeito para freelancers globais.
+[🔗Feedcoyote](https://feedcoyote.com)
+
+2. JustRemote — Trabalhos remotos e híbridos das principais empresas do mundo.
+🔗 https://justremote.co
+
+3. Himalaia — Bela interface do usuário + insights salariais para trabalhos remotos de tecnologia.
+🔗 https://himalayas.app
+
+4. Wellfound — O quadro de empregos de inicialização #1 para talentos globais de tecnologia.
+🔗 https://wellfound.com
+
+5. Nômades Trabalhadores — Trabalhos remotos selecionados para nômades digitais.
+🔗 https://workingnomads.com
+
+6. Pesquisa de quadro de empregos - 350+ quadros de empregos em um só lugar.
+🔗 https://jobboardsearch.com
+
+7. Remotive — Comunidade e listagens de empregos remotos confiáveis.
+🔗 https://remotive.io
+
+8. Trabalhamos remotamente — A plataforma OG para empresas remotas.
+🔗 https://weworkremotely.com
+
+9. OK remoto — Encontre empregos remotos em startups, tecnologia e design.
+🔗 https://remoteok.com
+
+10. FlexJobs — Funções remotas e híbridas verificadas e sem fraudes.
+🔗 https://flexjobs.com
+
+11. Remote.co — Listas de empregos remotas selecionadas em todos os setores.
+🔗 https://remote.co
+
+12. EUROPEREMOTELY — Empregos remotos abertos a pessoas fora dos EUA.
+🔗 https://europeremotely.com
+
+13. Jobspresso — Trabalhos remotos escolhidos a dedo em marketing, tecnologia e design.
+🔗 https://jobspresso.co
+
+14. WorkingInContent — Para escritores, editores e estrategistas de conteúdo.
+🔗 https://lnkd.in/gNaa6R-N
+
+15. PowerToFly — Conectando mulheres com empresas remotas.
+🔗 https://powertofly.com
+
+16. Vocações Virtuais — Trabalhos de teletrabalho verificados por humanos.
+🔗 https://lnkd.in/gUkycegk
+
+17. Dynamite Jobs — Trabalhos remotos de startups e empresas independentes.
+🔗 https://dynamitejobs.com
+
+18. Trabalhos autênticos – Ótimo para desenvolvedores, designers e criativos.
+🔗 https://authenticjobs.com
+
+19. Foguete Remoto — Trabalhos de tecnologia remota atualizados diariamente.
+🔗 https://lnkd.in/gdJFY2bn
+
+20. NoDesk — Recursos + listas de empregos para a cultura de trabalho remoto.
+🔗 https://nodesk.co
+
+21. Terceirizar — Trabalhos remotos de longo prazo para freelancers e startups.
+🔗 https://outsourcely.com
+
+22. Arc.dev — Trabalhos remotos de software de empresas aprovadas.
+🔗 https://arc.dev
+
+23. Turing — Combine com empregos remotos de tecnologia nos EUA.
+🔗 https://turing.com
+
+24. Lemon.io — Mercado freelance que conecta desenvolvedores com startups.
+🔗 https://lemon.io
+
+25. Contra — Plataforma freelance sem comissão para criativos.
+🔗 https://contra.com
+
+26. Remotees — 1000+ trabalhos remotos atualizados diariamente.
+🔗 https://remotees.com
+
+27. SkipTheDrive: Simplifica a busca remota de empregos com listagens verificadas.
+
+28. SimplyHired: Use o filtro remoto para encontrar empregos que pagam em dólares em todo o mundo.
   
 
 ## 🚀 PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
