@@ -144,7 +144,7 @@ Focados em técnicas e práticas de análise de dados.
   - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
 
 
-### 30 melhores para receber em dólares americanos de qualquer lugar:
+### 27 sites melhores para receber em dólares americanos de qualquer lugar:
 
 1. Feedcoyote — Trabalhos freelance pagos exclusivamente em dólares americanos. Perfeito para freelancers globais.
 [🔗Feedcoyote](https://feedcoyote.com)
@@ -225,9 +225,8 @@ Focados em técnicas e práticas de análise de dados.
 🔗 https://remotees.com
 
 27. SkipTheDrive: Simplifica a busca remota de empregos com listagens verificadas.
+🔗 https://www.skipthedrive.com/
 
-28. SimplyHired: Use o filtro remoto para encontrar empregos que pagam em dólares em todo o mundo.
-  
 
 ## 🚀 PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
 
