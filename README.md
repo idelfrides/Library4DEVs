@@ -6,7 +6,7 @@ Repositório dedicado a armazenar e organizar os links e ferramentos de diversos
 
 ---
 
-### 💡 INTRODUÇÃO
+### 💡 INTRODUCTION
 🎓 Em 2025, você não precisa de um diploma para aprender `IA` ou qualquer outra coisa que você queria aprender - tudo vai depender da sua determinação em fazer acontecer.
 O futuro do mercado de trabalho vai depender mais de habilidades IA do que certificações e diplomas, dito pelos maiores da IA Generativa, portanto faça sua parte e saia na frente.
 Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para acelerar sua jornada e você não precisa perder tempo procurando em outro lugar. Você tem está tudo aqui 👇
