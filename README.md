@@ -11,6 +11,14 @@ Repositório dedicado a armazenar e organizar os links e ferramentos de diversos
 O futuro do mercado de trabalho vai depender mais de habilidades IA do que certificações e diplomas, dito pelos maiores da IA Generativa, portanto faça sua parte e saia na frente.
 Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para acelerar sua jornada e você não precisa perder tempo procurando em outro lugar. Você tem está tudo aqui 👇
 
+
+## 🚀 BEST SOFT. DEVELOPMENT TRAINNING COMPANIES YOU SHOULD KNOW [FREE]
+
+1 - [Welcome to freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/)  |  freeCodeCamp
+
+
+
+
 ## 🚀 COURSES LINKS
 
 - [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
