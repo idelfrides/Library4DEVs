@@ -21,49 +21,28 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 ## 🚀 COURSES LINKS
 
-1 - [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
-
-2 - [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
-
-3 - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT OpenCourseWare
-
-4 - [Curso Santander | Domine a IA com prompting responsável](https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=domine-ia-pmax|marca|na|preditiva-domine-ia|performance-max|lepub|performance-max|m18896-32120-16&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-16&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMuxkUUzDDTuY0zCNYcVsmiJMW51en0ewjfjdgzuwGcwwn5BVBaX0MaAsU2EALw_wcB) | Santander Open Academy
-
-5 - [Inteligência Artificial Generativa](https://www.escolavirtual.gov.br/curso/1091) | Escola Virtual GOV
-
-6 - [Especialização em Fundamentos de IA do Google](https://www.coursera.org/specializations/ai-essentials-google/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_google-ai-essentials_google_ftcof_learn_px_dr_bau_gg_sem_pr_br_pt_m_hyb_25-07_x&campaignid=22771272682&adgroupid=179960896697&device=c&keyword=curso%20de%20ia&matchtype=b&network=g&devicemodel=&creativeid=762612059481&assetgroupid=&targetid=kwd-336414206545&extensionid=&placement=&gad_source=1&gad_campaignid=22771272682&gbraid=0AAAAADdKX6a5fzevpCdJQRzS47rqjVg-D&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNPdn0zyqAYy3OsgiKOtAXbUqaMIFXanpT5Rq0TnChPRbAomJP3w3twaAg1lEALw_wcB) | Curso da Google na plataforma Coursera
-
-7 - [Introdução à IA generativa](https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR) | Curso rápido da Google com Badge de conclusão
-
-8 - [Inteligência Artificial e o Novo Contexto da Cultura Digital](https://www.ev.org.br/cursos/inteligencia-artificial-e-o-novo-contexto-da-cultura-digital) | fundação bradesco | escola virtual
-
-9 - [Curso Santander | Google: Inteligência Artificial e Produtividade](https://www.santanderopenacademy.com/pt_br/courses/google-artificial-intelligence-and-productivity.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=produtividade-ia-pmax|marca|na|preditiva-produtividade-ia|performance-max|lepub|performance-max|m18896-32120-20&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-20&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMhlkRX-3EI8-unvUjdc9JaLVsS2w-BCfP2ZTISaXJOsGLUkDqHIewaAt9zEALw_wcB)  |  Santander Open Academy
-
-10 - [Cursos gratuitos da USP na Coursera](https://www.coursera.org/partners/usp) |  Coursera.org
-
-11 - [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll)  |  Coursera.org
-
-12 - [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br)   |  Coursera.org
-
-13 - [Cursos de IA da Microsoft](https://lnkd.in/d3MkAmuM)
-
-14 - [Cursos de IA do Google](https://lnkd.in/d-xihRua)
-
-15 - [Engenharia de Prompts ChatGPT (Universidade Vanderbilt)](https://lnkd.in/dHTiW7hV)
-
-16 - [Introdução à IA com Python (Universidade de Harvard)](https://lnkd.in/dwDk9yZr)
-
-17 - [Big Data, IA e Ética (UC Davis)](https://lnkd.in/dAJfNXvk)
-
-18 - [Engenharia de Prompts para Desenvolvedores (OpenAI)](https://lnkd.in/dQYPq8ua)
-
-19 - [Aplicações de IA e Engenharia de Prompts (edX)](https://lnkd.in/dE9GEpTK)
-
-20 - [Fundamentos da Engenharia Prompta (AWS)](https://lnkd.in/dYuWfZAv)
-
-21 - [IA Generativa para Todos (DeepLearning.AI)](https://lnkd.in/deYvKjw5)
-
-22 - [Cursos de IA Generativa (LinkedIn Learning)](https://lnkd.in/du8Rhbi6)
+1. [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
+2. [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
+3. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT OpenCourseWare
+4. [Curso Santander | Domine a IA com prompting responsável](https://www.santanderopenacademy.com/pt_br/courses/master-ai-with-responsible-prompting.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=domine-ia-pmax|marca|na|preditiva-domine-ia|performance-max|lepub|performance-max|m18896-32120-16&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-16&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMuxkUUzDDTuY0zCNYcVsmiJMW51en0ewjfjdgzuwGcwwn5BVBaX0MaAsU2EALw_wcB) | Santander Open Academy
+5. [Inteligência Artificial Generativa](https://www.escolavirtual.gov.br/curso/1091) | Escola Virtual GOV
+6. [Especialização em Fundamentos de IA do Google](https://www.coursera.org/specializations/ai-essentials-google/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_google-ai-essentials_google_ftcof_learn_px_dr_bau_gg_sem_pr_br_pt_m_hyb_25-07_x&campaignid=22771272682&adgroupid=179960896697&device=c&keyword=curso%20de%20ia&matchtype=b&network=g&devicemodel=&creativeid=762612059481&assetgroupid=&targetid=kwd-336414206545&extensionid=&placement=&gad_source=1&gad_campaignid=22771272682&gbraid=0AAAAADdKX6a5fzevpCdJQRzS47rqjVg-D&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNPdn0zyqAYy3OsgiKOtAXbUqaMIFXanpT5Rq0TnChPRbAomJP3w3twaAg1lEALw_wcB) | Curso da Google na plataforma Coursera
+7. [Introdução à IA generativa](https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR) | Curso rápido da Google com Badge de conclusão
+8. [Inteligência Artificial e o Novo Contexto da Cultura Digital](https://www.ev.org.br/cursos/inteligencia-artificial-e-o-novo-contexto-da-cultura-digital) | fundação bradesco | escola virtual
+9. [Curso Santander | Google: Inteligência Artificial e Produtividade](https://www.santanderopenacademy.com/pt_br/courses/google-artificial-intelligence-and-productivity.html/index.html?utm_source=google&utm_medium=performance-max&utm_campaign=saz-awar-instu-niver-25|pf|awar|perf-max|marca|cpa|na|snt|publicidade|na&utm_content=produtividade-ia-pmax|marca|na|preditiva-produtividade-ia|performance-max|lepub|performance-max|m18896-32120-20&utm_mmm=:m18896-g32120-p32120[t506-f548]17697:&utm_adid=m18896-32120-20&utm_publisher_id=&utm_id=&gad_source=1&gad_campaignid=22288353085&gbraid=0AAAAA-18uor4Ih_d3DNEkoaELXBiIrCeK&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMhlkRX-3EI8-unvUjdc9JaLVsS2w-BCfP2ZTISaXJOsGLUkDqHIewaAt9zEALw_wcB)  |  Santander Open Academy
+10. [Cursos gratuitos da USP na Coursera](https://www.coursera.org/partners/usp) |  Coursera.org
+11. [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals?action=enroll)  |  Coursera.org
+12. [Machine Learning Operations (MLOps): Getting Started - Português Brasileiro](https://www.coursera.org/learn/mlops-fundamentals-br)   |  Coursera.org
+13. [Cursos de IA da Microsoft](https://lnkd.in/d3MkAmuM)
+14. [Cursos de IA do Google](https://lnkd.in/d-xihRua)
+15. [Engenharia de Prompts ChatGPT (Universidade Vanderbilt)](https://lnkd.in/dHTiW7hV)
+16. [Introdução à IA com Python (Universidade de Harvard)](https://lnkd.in/dwDk9yZr)
+17. [Big Data, IA e Ética (UC Davis)](https://lnkd.in/dAJfNXvk)
+18. [Engenharia de Prompts para Desenvolvedores (OpenAI)](https://lnkd.in/dQYPq8ua)
+19. [Aplicações de IA e Engenharia de Prompts (edX)](https://lnkd.in/dE9GEpTK)
+20. [Fundamentos da Engenharia Prompta (AWS)](https://lnkd.in/dYuWfZAv)
+21. [IA Generativa para Todos (DeepLearning.AI)](https://lnkd.in/deYvKjw5)
+22. [Cursos de IA Generativa (LinkedIn Learning)](https://lnkd.in/du8Rhbi6)
 
 
 ##### 📚 Google Cloud:
