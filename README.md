@@ -21,6 +21,8 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 ## 🚀 COURSES LINKS
 
+##### 📚 Cursos Gerais de TIC
+
 1. [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
 2. [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
 3. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT OpenCourseWare
@@ -43,6 +45,17 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 20. [Fundamentos da Engenharia Prompta (AWS)](https://lnkd.in/dYuWfZAv)
 21. [IA Generativa para Todos (DeepLearning.AI)](https://lnkd.in/deYvKjw5)
 22. [Cursos de IA Generativa (LinkedIn Learning)](https://lnkd.in/du8Rhbi6)
+
+##### 📚 Agentes de Inteligência Artificial
+
+1. [Melhoria da Precisão das Aplicações de LLM](https://lnkd.in/dm5S3FFy)
+2. [Desenvolver agentes de IA no Azure](https://lnkd.in/d7F6nB88)
+3. [Liberando o Poder dos Agentes de IA](https://lnkd.in/d6igwdqD)
+4. [IA Agentica e Agentes de IA: Um Guia para Líderes](https://lnkd.in/dk8eJdDH)
+5. [Memória Agentica de Longo Prazo com LangGraph](https://lnkd.in/dY4Jcwnq)
+6. [Criar Aplicativos de IA Generativa no Google Cloud](https://lnkd.in/dXugBwUP)
+7. [Construção de Agentes RAG com LLMs](https://lnkd.in/dkJjAWAH)
+8. [IA Agente](https://lnkd.in/dUbi8bAa)
 
 
 ##### 📚 Google Cloud:
