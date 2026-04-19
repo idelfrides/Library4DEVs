@@ -16,7 +16,10 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 1 - [Welcome to freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/)  |  freeCodeCamp
 
-
+## 🚀 FERRAMENTAS DE USO GERAL
+1.  [Tools PDF24](https://tools.pdf24.org/pt/) | Ferramentas online de PDF gratuitas e fáceis de usar que aumentam sua produtividade.
+2.  [I Love PDF](https://www.ilovepdf.com/pt) | Ferramentas online para os amantes de PDF
+3. 
 
 
 ## 🚀 COURSES LINKS
@@ -354,7 +357,7 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 ---
 
 
-## 🚀 TOOLS TO GITHUB REPOS
+## 🚀 TOOLS FOR GITHUB REPOSITORIES
 
 - [PLATAFORMA DE EMOJIS](https://emojipedia.org/)  
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
