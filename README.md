@@ -262,29 +262,6 @@ Focados em técnicas e práticas de análise de dados.
 🔗 https://www.skipthedrive.com/
 
 
-## 🚀 PREPARING FOR TECHNICAL INTERVIEW ( `MID-LEVEL/SENIOR PYTHON DEV` )
-
-- TestGorilla | [100 perguntas de entrevista sobre Python](https://www.testgorilla.com/pt/blog/perguntas-de-entrevista-sobre-python/)
-- TURING | [Perguntas e respostas para entrevistas de emprego Python em 2024](https://www.turing.com/pt/interview-questions/python)
-- TURING | [30 perguntas e respostas para entrevistas de emprego de desenvolvedor de software em 2024](https://www.turing.com/pt/interview-questions/desenvolvedor-de-software)
-- TestGorilla | [14 perguntas (e respostas) avançadas para entrevistas sobre o Python](https://www.testgorilla.com/pt/blog/perguntas-avancadas-entrevista-python/)
-- ALURA | [SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO)](https://www.alura.com.br/artigos/solid)
-- REVELO | [12 perguntas fundamentais para entrevista com desenvolvedor](https://blog.revelo.com.br/blog/entrevista-com-desenvolvedor/)
-- BitDegree | [Perguntas em entrevista de Python - o que você precisa de saber](https://br.bitdegree.org/tutoriais/python-interview-questions)
-- CLOUD COMPUTING: AWS, AZURE, GCP
-- DEVOPS
-- APIs
-- TYPES OF SOFTWARE ARQUITECTURES
-- STUDY THE LANGUAGE TO UNDARSTAND IT DEEPLY
-- STUDY ABOUT
-	- `ABASTRACT CLASSES`
-   	- `INSTANCE METHOD`
-   	- `STATIC METHOD`
-   	- `CLASS METHOD`
-   	- Built-In Functions : LIST, TUPLE, SET, DICT
-   	- FRAMEWORKS: DJANGO, FLASK, DJANGO REST FRAMEWORK, FastAPI
-
-
 ## 🚀 IMPORTANT LINKS
 
 - [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
