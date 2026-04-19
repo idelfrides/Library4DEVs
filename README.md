@@ -262,6 +262,71 @@ Focados em técnicas e práticas de análise de dados.
 🔗 https://www.skipthedrive.com/
 
 
+## 🚀 50 Sites de Trabalho Remoto para Ganhar em USD
+
+Então eu compilei os melhores sites de empregos remotos para você.
+1. [SolidGigs](https://solidgigs.com) |  
+Isso ajuda a agilizar sua busca por emprego. Uma taxa mensal de associação te dá acesso a uma enorme biblioteca de recursos com cursos, entrevistas, modelos, roteiros e outras ferramentas, tudo com o foco de ajudar você a conseguir mais empregos freelancers.
+2. [JustRemote](https://justremote.co) | A plataforma deles foi criada especificamente para que as pessoas descubram as melhores oportunidades de trabalho remoto ao redor do mundo, sem foco em uma localização ou região específica
+3. [Empregos Dinamites](https://dynamitejobs.com/) | 
+Mais de 100+ empregos remotos de qualidade são adicionados toda semana à plataforma — e buscar o que você deseja é personalizável com a variedade de filtros e funcionalidades do site.
+4. [Remotivação](https://remotive.com/) | 
+Você pode pesquisar em todas as categorias, incluindo marketing. É fácil perceber quando uma vaga foi anunciada, onde ela está localizada e em qual especialidade ela pertence.
+5. [Bem encontrado](https://wellfound.com/) | Ótimos recursos deste site de empregos remotos incluem discrição e transparência salarial.
+6. [A Musa](https://www.themuse.com/) | 
+Ele permite que os usuários filtrem vagas remotas e oferece recursos como coaching de carreira e perfis de empresas para ajudá-los a conseguir o emprego.
+7. [Toptal](https://www.toptal.com/) | O foco principal da Toptal é colocar freelancers talentosos em empregos remotos trabalhando para clientes como Shopify e Thumbtack.
+8. [Workew](https://workew.com/) | Você pode marcar nos favoritos vagas remotas específicas que parecem atraentes enquanto navega, e até se inscrever nas notificações do Twitter para ser alertado assim que um novo emprego remoto for lançado.
+9. [Himalaias](https://himalayas.app/) | Possui um filtro poderoso de visto e fuso horário que facilita encontrar os empregos remotos mais cuidadosamente selecionados.
+10. [Jooble](https://jooble.org) | Uma plataforma global de emprego que opera em mais de 60 países, conectando candidatos a uma vasta gama de oportunidades de mais de 140.000 fontes diversas.
+11. [Upwork](https://www.upwork.com/) | Trabalhos freelancer em diversas áreas.
+12. [Fiverr](https://www.fiverr.com/) | Oferece serviços em diversas categorias.
+13. [Freelancer](https://www.freelancer.com/) | Licite em projetos e gigs.
+14. [Toptal](https://www.toptal.com/) | Freelancers altamente qualificados.
+15. [Guru](https://www.guru.com/) | Conecte-se com clientes para trabalhos.
+16. [PeoplePerHour](https://www.peopleperhour.com/) | Encontre trabalhos e gigs freelancer.
+17. [SimplyHired](https://www.simplyhired.com/) | Job search engine para trabalho remoto.
+18. [FlexJobs](https://www.flexjobs.com/) | Listagem de trabalhos remotos curados e flexíveis.
+19. [We Work Remotely](https://weworkremotely.com/) | Listagem de trabalhos remotos por cargo, nicho, entre outros.
+20. [Remote.co](https://remote.co/) | Listagem de oportunidades e conselhos sobre trabalho remoto.
+21. [AngelList / Wellfound](https://wellfound.com/) | Startups oferecendo vagas remotas.
+22. [LinkedIn Jobs](https://www.linkedin.com/jobs/) | Rede e listagem de empregos remotos.
+23. [Indeed](https://www.indeed.com/) | Empresa com vagas remotas e listagens de emprego.
+24. [Glassdoor](https://www.glassdoor.com/) | Pesquise por empregos remotos.
+25. [Turing](https://www.turing.com/jobs) | Especializa-se em empregos remotos.
+26. [JustRemote](https://justremote.co/) | Listagens de vagas remotas.
+27. [SolidGigs](https://solidgigs.com/) | Recursos focados em freelancers de alta renda.
+28. [Contena](https://contena.co/) | Blogging, redação e sites de trabalho remoto.
+29. [Working Nomads](https://www.workingnomads.com/jobs) | Listagens de trabalho remoto.
+30. [Outsourcely](https://www.outsourcely.com/) | Contrate projetos e freelancers remotos.
+31. [DesignCrowd](https://www.designcrowd.com/) | Projetos de design para freelancers.
+32. [Simply Law Jobs](https://www.simplylawjobs.com/) | Oportunidades remotas na área jurídica.
+33. [Remote Jobs Club](https://remotejobsclub.com/) | Boletim informativo com listas de emprego remoto.
+34. [Reddit forhire](https://www.reddit.com/r/forhire/) | Subreddit com listagens de trabalho remoto.
+35. [Virtual Vocations](https://www.virtualvocations.com/) | Listagens e recursos de trabalho remoto.
+36. [Crowded](https://www.crowded.com/) | Agregador de vagas e oportunidades remotas.
+37. [TaskRabbit](https://www.taskrabbit.com/) | Tarefas e gigs de serviços.
+38. [PeoplePerHour](https://www.peopleperhour.com/) | Serviços freelancer e gigs.
+39. [Clickworker](https://www.clickworker.com/) | Microtarefas e tarefas curtas.
+40. [Amazon Mechanical Turk](https://www.mturk.com/) | Microtarefas e coleta de dados.
+41. [Appen](https://appen.com/) | Crowdsourcing de idioma e projetos remotos.
+42. [Unbabel](https://unbabel.com/) | Trabalho com linguagem e IA.
+43. [LanguageLine Solutions](https://www.languageline.com/careers) | Tradução e interpretação remota.
+44. [TranscribeMe](https://www.transcribeme.com/) | Trabalho remoto com transcrição.
+45. [Writing.com](https://writing.com/) | Blogging e redação freelancer.
+46. [Jobscribe](https://jobscribe.com/) | Curadoria de listas de empregos remotos.
+47. [Hubstaff Talent](https://talent.hubstaff.com/) | Base de empregos de empresas.
+48. [Jobs2Careers](https://www.jobs2careers.com/) | Conteúdos e oportunidades de trabalho remoto.
+49. [Keyword Studios Careers](https://www.keywordstudios.com/careers/) | Listagens e projetos remotos.
+50. [Outsourcely](https://www.outsourcely.com/) | Plataformas remotas e freelancers remotos.
+
+## Observações
+
+* A imagem afirma “50 sites”, mas contém 41 itens visíveis, incluindo algumas repetições (PeoplePerHour e Outsourcely).
+* “TopTalento” aparenta ser uma referência incorreta ou duplicada de Toptal.
+* “Keyword” provavelmente se refere à empresa de games e localização Keyword Studios.
+* Alguns nomes podem ter sido abreviados ou escritos de forma imprecisa na imagem original.
+
 ## 🚀 IMPORTANT LINKS
 
 - [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
