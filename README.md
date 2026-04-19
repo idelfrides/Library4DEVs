@@ -128,13 +128,9 @@ Para quem deseja aprender programação ou aprimorar habilidades existentes.
 Focados em técnicas e práticas de análise de dados.
 
 🦾 [Data Science: Machine Learning](https://lnkd.in/dBMJX9RP)
-
 🦾 [Data Science: Visualização](https://lnkd.in/dBpFdAFr)
-
 🦾 [Data Science: Probabilidade](https://lnkd.in/dn4_SepG)
-
 🦾 [Data Science: R Basics](https://lnkd.in/dg9meS8V)
-
 🦾 [Data Science: Inferência Estatística](https://lnkd.in/d62NGgSH)
 
 ## 🚀 WEBSITES (PLATFORMS)
@@ -178,103 +174,46 @@ Focados em técnicas e práticas de análise de dados.
   - [Gun.io](https://www.gun.io/) | Focada em conectar talentos de engenharia de software de alto nível com empresas.
 
 
-### 27 sites melhores para receber em dólares americanos de qualquer lugar:
+## 🚀 27 sites melhores para receber em dólares americanos de qualquer lugar
 
-1. Feedcoyote — Trabalhos freelance pagos exclusivamente em dólares americanos. Perfeito para freelancers globais.
-[🔗Feedcoyote](https://feedcoyote.com)
-
-2. JustRemote — Trabalhos remotos e híbridos das principais empresas do mundo.
-🔗 https://justremote.co
-
-3. Himalaia — Bela interface do usuário + insights salariais para trabalhos remotos de tecnologia.
-🔗 https://himalayas.app
-
-4. Wellfound — O quadro de empregos de inicialização #1 para talentos globais de tecnologia.
-🔗 https://wellfound.com
-
-5. Nômades Trabalhadores — Trabalhos remotos selecionados para nômades digitais.
-🔗 https://workingnomads.com
-
-6. Pesquisa de quadro de empregos - 350+ quadros de empregos em um só lugar.
-🔗 https://jobboardsearch.com
-
-7. Remotive — Comunidade e listagens de empregos remotos confiáveis.
-🔗 https://remotive.io
-
-8. Trabalhamos remotamente — A plataforma OG para empresas remotas.
-🔗 https://weworkremotely.com
-
-9. OK remoto — Encontre empregos remotos em startups, tecnologia e design.
-🔗 https://remoteok.com
-
-10. FlexJobs — Funções remotas e híbridas verificadas e sem fraudes.
-🔗 https://flexjobs.com
-
-11. Remote.co — Listas de empregos remotas selecionadas em todos os setores.
-🔗 https://remote.co
-
-12. EUROPEREMOTELY — Empregos remotos abertos a pessoas fora dos EUA.
-🔗 https://europeremotely.com
-
-13. Jobspresso — Trabalhos remotos escolhidos a dedo em marketing, tecnologia e design.
-🔗 https://jobspresso.co
-
-14. WorkingInContent — Para escritores, editores e estrategistas de conteúdo.
-🔗 https://lnkd.in/gNaa6R-N
-
-15. PowerToFly — Conectando mulheres com empresas remotas.
-🔗 https://powertofly.com
-
-16. Vocações Virtuais — Trabalhos de teletrabalho verificados por humanos.
-🔗 https://lnkd.in/gUkycegk
-
-17. Dynamite Jobs — Trabalhos remotos de startups e empresas independentes.
-🔗 https://dynamitejobs.com
-
-18. Trabalhos autênticos – Ótimo para desenvolvedores, designers e criativos.
-🔗 https://authenticjobs.com
-
-19. Foguete Remoto — Trabalhos de tecnologia remota atualizados diariamente.
-🔗 https://lnkd.in/gdJFY2bn
-
-20. NoDesk — Recursos + listas de empregos para a cultura de trabalho remoto.
-🔗 https://nodesk.co
-
-21. Terceirizar — Trabalhos remotos de longo prazo para freelancers e startups.
-🔗 https://outsourcely.com
-
-22. Arc.dev — Trabalhos remotos de software de empresas aprovadas.
-🔗 https://arc.dev
-
-23. Turing — Combine com empregos remotos de tecnologia nos EUA.
-🔗 https://turing.com
-
-24. Lemon.io — Mercado freelance que conecta desenvolvedores com startups.
-🔗 https://lemon.io
-
-25. Contra — Plataforma freelance sem comissão para criativos.
-🔗 https://contra.com
-
-26. Remotees — 1000+ trabalhos remotos atualizados diariamente.
-🔗 https://remotees.com
-
-27. SkipTheDrive: Simplifica a busca remota de empregos com listagens verificadas.
-🔗 https://www.skipthedrive.com/
+1. [Feedcoyote](https://feedcoyote.com) | Trabalhos freelance pagos exclusivamente em dólares americanos. Perfeito para freelancers globais.
+2. [JustRemote](https://justremote.co) | Trabalhos remotos e híbridos das principais empresas do mundo.
+3. [Himalayas](https://himalayas.app) | Interface moderna com insights salariais para trabalhos remotos em tecnologia.
+4. [Wellfound](https://wellfound.com) | Principal quadro de vagas para startups e talentos globais de tecnologia.
+5. [Working Nomads](https://workingnomads.com) | Trabalhos remotos selecionados para nômades digitais.
+6. [Job Board Search](https://jobboardsearch.com) | Pesquisa em mais de 350 quadros de empregos em um só lugar.
+7. [Remotive](https://remotive.io) | Comunidade e listagens confiáveis de empregos remotos.
+8. [We Work Remotely](https://weworkremotely.com) | Plataforma tradicional para vagas em empresas remotas.
+9. [Remote OK](https://remoteok.com) | Empregos remotos em startups, tecnologia e design.
+10. [FlexJobs](https://flexjobs.com) | Funções remotas e híbridas verificadas, sem fraudes.
+11. [Remote.co](https://remote.co) | Listas de empregos remotos selecionadas em diversos setores.
+12. [EuropeRemotely](https://europeremotely.com) | Empregos remotos abertos a candidatos fora dos EUA.
+13. [Jobspresso](https://jobspresso.co) | Trabalhos remotos escolhidos a dedo em marketing, tecnologia e design.
+14. [Working In Content](https://lnkd.in/gNaa6R-N) | Plataforma voltada para escritores, editores e estrategistas de conteúdo.
+15. [PowerToFly](https://powertofly.com) | Conecta mulheres a empresas com vagas remotas.
+16. [Virtual Vocations](https://lnkd.in/gUkycegk) | Trabalhos remotos e de teletrabalho verificados manualmente.
+17. [Dynamite Jobs](https://dynamitejobs.com) | Trabalhos remotos em startups e empresas independentes.
+18. [Authentic Jobs](https://authenticjobs.com) | Excelente para desenvolvedores, designers e profissionais criativos.
+19. [Remote Rocketship](https://lnkd.in/gdJFY2bn) | Trabalhos de tecnologia remota atualizados diariamente.
+20. [NoDesk](https://nodesk.co) | Recursos e listas de empregos para a cultura de trabalho remoto.
+21. [Outsourcely](https://outsourcely.com) | Trabalhos remotos de longo prazo para freelancers e startups.
+22. [Arc.dev](https://arc.dev) | Trabalhos remotos em software para empresas aprovadas.
+23. [Turing](https://turing.com) | Conecta profissionais a empregos remotos de tecnologia nos EUA.
+24. [Lemon.io](https://lemon.io) | Marketplace freelance que conecta desenvolvedores a startups.
+25. [Contra](https://contra.com) | Plataforma freelance sem comissão para profissionais criativos.
+26. [Remotees](https://remotees.com) | Mais de 1.000 trabalhos remotos atualizados diariamente.
+27. [SkipTheDrive](https://www.skipthedrive.com/) | Simplifica a busca por empregos remotos com listagens verificadas.
 
 
 ## 🚀 50 Sites de Trabalho Remoto para Ganhar em USD
 
 Então eu compilei os melhores sites de empregos remotos para você.
-1. [SolidGigs](https://solidgigs.com) |  
-Isso ajuda a agilizar sua busca por emprego. Uma taxa mensal de associação te dá acesso a uma enorme biblioteca de recursos com cursos, entrevistas, modelos, roteiros e outras ferramentas, tudo com o foco de ajudar você a conseguir mais empregos freelancers.
+1. [SolidGigs](https://solidgigs.com) | Isso ajuda a agilizar sua busca por emprego. Uma taxa mensal de associação te dá acesso a uma enorme biblioteca de recursos com cursos, entrevistas, modelos, roteiros e outras ferramentas, tudo com o foco de ajudar você a conseguir mais empregos freelancers.
 2. [JustRemote](https://justremote.co) | A plataforma deles foi criada especificamente para que as pessoas descubram as melhores oportunidades de trabalho remoto ao redor do mundo, sem foco em uma localização ou região específica
-3. [Empregos Dinamites](https://dynamitejobs.com/) | 
-Mais de 100+ empregos remotos de qualidade são adicionados toda semana à plataforma — e buscar o que você deseja é personalizável com a variedade de filtros e funcionalidades do site.
-4. [Remotivação](https://remotive.com/) | 
-Você pode pesquisar em todas as categorias, incluindo marketing. É fácil perceber quando uma vaga foi anunciada, onde ela está localizada e em qual especialidade ela pertence.
+3. [Empregos Dinamites](https://dynamitejobs.com/) | Mais de 100+ empregos remotos de qualidade são adicionados toda semana à plataforma — e buscar o que você deseja é personalizável com a variedade de filtros e funcionalidades do site.
+4. [Remotivação](https://remotive.com/) | Você pode pesquisar em todas as categorias, incluindo marketing. É fácil perceber quando uma vaga foi anunciada, onde ela está localizada e em qual especialidade ela pertence.
 5. [Bem encontrado](https://wellfound.com/) | Ótimos recursos deste site de empregos remotos incluem discrição e transparência salarial.
-6. [A Musa](https://www.themuse.com/) | 
-Ele permite que os usuários filtrem vagas remotas e oferece recursos como coaching de carreira e perfis de empresas para ajudá-los a conseguir o emprego.
+6. [A Musa](https://www.themuse.com/) | Ele permite que os usuários filtrem vagas remotas e oferece recursos como coaching de carreira e perfis de empresas para ajudá-los a conseguir o emprego.
 7. [Toptal](https://www.toptal.com/) | O foco principal da Toptal é colocar freelancers talentosos em empregos remotos trabalhando para clientes como Shopify e Thumbtack.
 8. [Workew](https://workew.com/) | Você pode marcar nos favoritos vagas remotas específicas que parecem atraentes enquanto navega, e até se inscrever nas notificações do Twitter para ser alertado assim que um novo emprego remoto for lançado.
 9. [Himalaias](https://himalayas.app/) | Possui um filtro poderoso de visto e fuso horário que facilita encontrar os empregos remotos mais cuidadosamente selecionados.
@@ -320,13 +259,6 @@ Ele permite que os usuários filtrem vagas remotas e oferece recursos como coach
 49. [Keyword Studios Careers](https://www.keywordstudios.com/careers/) | Listagens e projetos remotos.
 50. [Outsourcely](https://www.outsourcely.com/) | Plataformas remotas e freelancers remotos.
 
-## Observações
-
-* A imagem afirma “50 sites”, mas contém 41 itens visíveis, incluindo algumas repetições (PeoplePerHour e Outsourcely).
-* “TopTalento” aparenta ser uma referência incorreta ou duplicada de Toptal.
-* “Keyword” provavelmente se refere à empresa de games e localização Keyword Studios.
-* Alguns nomes podem ter sido abreviados ou escritos de forma imprecisa na imagem original.
-
 ## 🚀 IMPORTANT LINKS
 
 - [7 APIs Públicas Grátis para Desenvolvedores](https://mgcconsulting.com.br/7-apis-publicas-gratis-para-desenvolvedores/)
@@ -358,9 +290,8 @@ Ele permite que os usuários filtrem vagas remotas e oferece recursos como coach
 
 De acordo com o Copilot, para pesquisa realizada em 31/07/2025, a seguir está uma seleção dos **10 melhores canais brasileiros** e **10 internacionais** sobre **desenvolvimento de software**, com nome, link e uma breve descrição:
 
----
 
-## 🇧🇷 **Canais Brasileiros**
+## 🚀 🇧🇷 **Canais Brasileiros**
 
 | Nome do Canal | Link | Descrição |
 |---------------|------|-----------|
@@ -377,7 +308,6 @@ De acordo com o Copilot, para pesquisa realizada em 31/07/2025, a seguir está u
 
 Fonte: [Skills Tecnológicas](https://skillstecnologicas.com/canais-de-tecnologia-e-programacao/)
 
----
 
 ## 🌍 **Canais Internacionais**
 
@@ -395,8 +325,6 @@ Fonte: [Skills Tecnológicas](https://skillstecnologicas.com/canais-de-tecnologi
 | **Clement Mihailescu** | [YouTube](https://www.youtube.com/@ClementMihailescu) | Ex-Google fala sobre entrevistas técnicas e carreira em tech. |
 
 Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-para-desenvolvedores)
-
----
 
 
 ## 🚀 TOOLS FOR GITHUB REPOSITORIES
