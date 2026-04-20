@@ -26,27 +26,28 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 #### 📚 Cursos de Inteligência Artificial direto da fonte criadora
 
-🔶 Anthropic → https://anthropic.skilljar.com
+🔶 Anthropic → https://anthropic.skilljar.com/
 
-🔵 Google → https://grow.google/ai
+🔵 Google → https://grow.google/ai-coursera/
 
-🔵 Meta → https://ai.meta.com/resources
+🔵 Meta → https://ai.meta.com/resources/
 
-🟢 NVIDIA → https://lnkd.in/gDH6EbYc
+🟢 NVIDIA → https://developer.nvidia.com/cuda
 
-🟥 Microsoft → https://lnkd.in/gkdCAGmN
+🟥 Microsoft → https://learn.microsoft.com/pt-br/training/
 
-⚫ OpenAI → https://academy.openai.com
+⚫ OpenAI → https://academy.openai.com/
 
-🔵 IBM → https://skillsbuild.org
+🔵 IBM → https://skillsbuild.org/
 
-🟠 AWS → https://skillbuilder.aws
+🟠 AWS → https://skillbuilder.aws/
 
-🔴 DeepLearning.AI → https://deeplearning.ai
+🔴 DeepLearning.AI → https://deeplearning.ai/
 
-🟡 Abraçando o rosto → https://huggingface.co/learn
+🟡 Abraçando o rosto → https://huggingface.co/learn/
 
-##### 📚 Cursos Gerais de TIC
+
+#### 📚 Cursos Gerais de TIC
 
 1. [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
 2. [CC50: o curso gratuito de Introdução a Ciência da Computação de Harvard no Brasil](https://www.estudarfora.org.br/cc50-v2/) | Harvard University
@@ -71,7 +72,7 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 21. [IA Generativa para Todos (DeepLearning.AI)](https://lnkd.in/deYvKjw5)
 22. [Cursos de IA Generativa (LinkedIn Learning)](https://lnkd.in/du8Rhbi6)
 
-##### 📚 Agentes de Inteligência Artificial
+#### 📚 Agentes de Inteligência Artificial
 
 1. [Melhoria da Precisão das Aplicações de LLM](https://lnkd.in/dm5S3FFy)
 2. [Desenvolver agentes de IA no Azure](https://lnkd.in/d7F6nB88)
@@ -83,7 +84,7 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 8. [IA Agente](https://lnkd.in/dUbi8bAa)
 
 
-##### 📚 Google Cloud:
+#### 📚 Google Cloud:
 
 1. [Introdução à IA generativa](https://lnkd.in/dbnBXPYq)  | (⏱ 45min)
 2. [Design de prompt em Vertex AI](https://lnkd.in/ebH8RhEr) | (⏱ 3h 45min)
@@ -96,7 +97,7 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 9. [Pipelines de ML no Google Cloud](https://lnkd.in/gN3PSDi5) | (⏱ 13 horas e 15 minutos)
 10. [Google Cloud Solutions II: Dados e Machine Learning](https://lnkd.in/gfDcXfKh) | (⏱ 4 horas)
 
-##### 📚 Microsoft:
+#### 📚 Microsoft:
 
 11. [Fundamentos da IA generativa](https://lnkd.in/gvYEj9at) | (⏱ 36 minutos)
 12. [Fundamentos de Aprendizado de Máquina](https://lnkd.in/ext-G-ch) | (⏱ 1 hora e 54 min)
