@@ -26,7 +26,9 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 #### 📚 Cursos de Inteligência Artificial direto da fonte criadora
 
-🔶 Anthropic → https://anthropic.skilljar.com/
+🔶 Anthropic → [Anthropic Skill Jar](https://anthropic.skilljar.com/)
+
+🔶 Anthropic → [Anthropic Acadamy](https://www.anthropic.com/learn)
 
 🔵 Google → https://grow.google/ai-coursera/
 
