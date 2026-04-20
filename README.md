@@ -24,6 +24,28 @@ Eu encontrei inumeros cursos gratuitos de diversas empresas gigantes para aceler
 
 ## 🚀 COURSES LINKS
 
+#### 📚 Cursos de Inteligência Artificial direto da fonte criadora
+
+🔶 Anthropic → https://anthropic.skilljar.com
+
+🔵 Google → https://grow.google/ai
+
+🔵 Meta → https://ai.meta.com/resources
+
+🟢 NVIDIA → https://lnkd.in/gDH6EbYc
+
+🟥 Microsoft → https://lnkd.in/gkdCAGmN
+
+⚫ OpenAI → https://academy.openai.com
+
+🔵 IBM → https://skillsbuild.org
+
+🟠 AWS → https://skillbuilder.aws
+
+🔴 DeepLearning.AI → https://deeplearning.ai
+
+🟡 Abraçando o rosto → https://huggingface.co/learn
+
 ##### 📚 Cursos Gerais de TIC
 
 1. [CS50x: Introduction to Computer Science](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) | Harvard University
