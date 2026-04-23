@@ -301,6 +301,10 @@ Desenvolvimento backend envolve diversas áreas de conhecimento! Aqui está um m
  
  6️⃣ DevOps e Deploy – Conheça CI/CD (GitHub Actions, Jenkins), Infraestrutura como Código (Terraform, Ansible) e ferramentas de monitoramento como Prometheus, Grafana e ELK.
 
+<p align="center">
+  <img src="./backend-development-roadmap.png" alt="How to Learn Backend Development" width="400">
+</p>
+
 🛠️ Backend é uma área ampla e cheia de possibilidades! Qual desses tópicos você já domina e quais ainda quer aprender?
 
 
