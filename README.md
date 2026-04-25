@@ -379,7 +379,9 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 
 ## 🚀 TOOLS FOR GITHUB REPOSITORIES
 
-- [PLATAFORMA DE EMOJIS](https://emojipedia.org/)  
+- <a href="https://emojipedia.org/" target="_blank">PLATAFORMA DE EMOJIS</a>
+-  [PLATAFORMA DE EMOJIS 02](https://emojipedia.org/)
+-  [PLATAFORMA DE EMOJIS 03](https://emojipedia.org/) _(opens in a new tab)_
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
 - [BIBLIOTECA DE GRÁFICOS](https://github.com/anuraghazra/github-readme-stats)
 - [CONSTRUÇÃO MARKEDOWN](https://www.markdownguide.org/cheat-sheet/)
