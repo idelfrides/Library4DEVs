@@ -380,10 +380,14 @@ Fonte: [AppMaster](https://appmaster.io/pt/blog/principais-canais-do-youtube-par
 ## 🚀 TOOLS FOR GITHUB REPOSITORIES
 
 - <a href="https://emojipedia.org/" target="_blank">PLATAFORMA DE EMOJIS</a>
--  [PLATAFORMA DE EMOJIS 02](https://emojipedia.org/)
--  [PLATAFORMA DE EMOJIS 03](https://emojipedia.org/) _(opens in a new tab)_
+- [lowlighter/metrics](https://github.com/lowlighter/metrics)
 - [BIBLIOTECA DE BADGES](https://github.com/Ileriayo/markdown-badges)
 - [BIBLIOTECA DE GRÁFICOS](https://github.com/anuraghazra/github-readme-stats)
 - [CONSTRUÇÃO MARKEDOWN](https://www.markdownguide.org/cheat-sheet/)
-- [TEXTO	 DINÂNICO EM SEU PERFIL](https://github.com/DenverCoder1/readme-typing-svg)
-  
+- [TEXTO DINÂNICO EM SEU PERFIL](https://github.com/DenverCoder1/readme-typing-svg)
+
+
+  <!--[PLATAFORMA DE EMOJIS 02](https://emojipedia.org/)
+  - [PLATAFORMA DE EMOJIS 03](https://emojipedia.org/) _(opens in a new tab)_
+
+   --> 
